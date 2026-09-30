@@ -2,7 +2,7 @@ const FBaileys = require('f-baileys');
 
 // ========== Konfigurasi ==========
 const CONFIG = {
-    phoneNumber: '628xxxxxxxxxx', // ← ganti ke nomor Bot kamu
+    phoneNumber: '6285758524193', // ← ganti ke nomor Bot kamu
     sessionPath: './wa-session',
     botName: 'Zimzz-AI',
 };
